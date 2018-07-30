@@ -4,7 +4,7 @@
 
 https://www.udemy.com/react-redux-tutoriel-pour-debutants-en-francais/
 
-## Api key The movie Data Base :
+## Api key The Movie Data Base :
 
 - Créer un compte (https://www.themoviedb.org/)
 - Paramètres du compte
@@ -29,7 +29,7 @@ const tokenRead = '[API_TOKE_READ_TMDB]';
 > npm start
 ```
 
-## todo :
+## Todo :
 
 - Fix contenu à vide qand aucune video youtube
 - Fix contenu à vide quand aucun film de la liste
