@@ -28,3 +28,11 @@ const tokenRead = '[API_TOKE_READ_TMDB]';
 ```
 > npm start
 ```
+
+## todo :
+
+- Fix contenu à vide qand aucune video youtube
+- Fix contenu à vide quand aucun film de la liste
+- Proposer plusieurs trailers s'ils existent
+- Traduction i18n
+- Test Unitaire (Jest, chai, enzyme)
