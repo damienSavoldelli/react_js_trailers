@@ -31,7 +31,7 @@ const tokenRead = '[API_TOKE_READ_TMDB]';
 
 ## Todo :
 
-- Fix contenu à vide qand aucune video youtube
+- Fix contenu à vide quand aucune video youtube
 - Fix contenu à vide quand aucun film de la liste
 - Proposer plusieurs trailers s'ils existent
 - Traduction i18n
